@@ -1,8 +1,0 @@
-12:36:57.783142 DEBUG [server] ================= startup Wed May  8 09:36:57 2024 ==================
-12:36:57.783281 INFO [server] ================= startup Wed May  8 09:36:57 2024 ==================
-12:36:57.783306 WARNING [server] ================= startup Wed May  8 09:36:57 2024 ==================
-12:36:57.783391 ERROR [server] ================= startup Wed May  8 09:36:57 2024 ==================
-12:36:57.783410 FATAL [server] ================= startup Wed May  8 09:36:57 2024 ==================
-12:36:57.783423 INFO [server] Using config file: "/usr/local/Cellar/libbitcoin-server/3.8.0_2/etc/libbitcoin/bs.cfg"
-12:36:57.783439 INFO [server] Please wait while the server is starting...
-12:36:57.783453 ERROR [server] The "blockchain" directory is not initialized, run: bs --initchain

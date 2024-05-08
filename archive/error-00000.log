@@ -1,4 +1,0 @@
-12:36:57.783306 WARNING [server] ================= startup Wed May  8 09:36:57 2024 ==================
-12:36:57.783391 ERROR [server] ================= startup Wed May  8 09:36:57 2024 ==================
-12:36:57.783410 FATAL [server] ================= startup Wed May  8 09:36:57 2024 ==================
-12:36:57.783453 ERROR [server] The "blockchain" directory is not initialized, run: bs --initchain
