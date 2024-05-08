@@ -1,2 +1,5 @@
 # WES
-WES for cancer stuff - pharmagen - ufc
+
+Aula - 08052024 sobre **whole exome sequencing**
+
+
