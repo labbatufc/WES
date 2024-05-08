@@ -1,6 +1,8 @@
 # WES
 
-Aula - 08052024 sobre **whole exome sequencing**
+Aula - 08052024 sobre **sequenciamento completo do exoma**
+
+---
 
 Quartas:
 - Introdução à linguagem `bash`;
